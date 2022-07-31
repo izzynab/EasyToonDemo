@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Backwards 2019 URP Test",
-"productVersion": "0.1",
+"companyName": "INab Studio",
+"productName": "Easy Toon Demo",
+"productVersion": "1.0",
 "dataUrl": "EasyToonDemo.data.unityweb",
 "wasmCodeUrl": "EasyToonDemo.wasm.code.unityweb",
 "wasmFrameworkUrl": "EasyToonDemo.wasm.framework.unityweb",
